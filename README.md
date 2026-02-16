@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00CAF7,100:8A2BE2&reversal=true&section=header&descAlign=71&descAlignY=65"/>
-</p>
+</p> -->
 <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 <!-- <div align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60"/></div>  -->
 

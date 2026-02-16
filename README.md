@@ -14,7 +14,7 @@ Developer with hands-on experience in **Python, JavaScript, SQL, React, HTML/CSS
 
 ### 👨‍💻 About Me
 
-- 🎓 Information Technology graduate focused on front-end and Python development  
+- 🎓 IT graduate focused on front-end and Python development  
 - 💻 Experience in Python, JavaScript, web development, and data-driven applications  
 - 🛠️ Developing real-world websites for clients through freelance projects
 - 📈 Actively building projects and seeking opportunities to grow as a software developer

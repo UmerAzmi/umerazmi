@@ -24,10 +24,10 @@ Building in the world of early-stage startups. Developer with expertise in **Pyt
 <div align="center">
 
 <!-- <a href="https://x.com/Azmi_Umer"><img src="./twitter.png" width=40 height=40 alt="Twitter" /></a>&nbsp;&nbsp; -->
-<a href="mailto:umer.azmi0@gmail.com"><img src="./gmail.png" width=40 height=40 alt="Email" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/umer.azmi"><img src="./instagram.png" width=40 height=40 alt="Instagram" /></a>&nbsp;&nbsp;
-<a href="https://www.github.com/UmerAzmi"><img src="./github.png" width=40 height=40 alt="GitHub" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/umer-azmi-1181351a1/"><img src="./linkedin.png" width=40 height=40 alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:umer.azmi0@gmail.com"><img src="./img/gmail.png" width=40 height=40 alt="Email" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/umer.azmi"><img src="./img/instagram.png" width=40 height=40 alt="Instagram" /></a>&nbsp;&nbsp;
+<a href="https://www.github.com/UmerAzmi"><img src="./img/github.png" width=40 height=40 alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/umer-azmi-1181351a1/"><img src="./img/linkedin.png" width=40 height=40 alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
 </div>
 
 <p align="center">

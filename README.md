@@ -1,19 +1,23 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00CAF7,100:8A2BE2&reversal=true&section=header&descAlign=71&descAlignY=65"/>
+</p>
 <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 <!-- <div align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60"/></div>  -->
 
 <p align="left" style="margin:0;padding:0"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=435&size=55&duration=4000&pause=1000&color=00CAF7&vCenter=true&width=435&height=65&lines=Umer+Azmi" /></p>
 
 ---
-**Python Developer · Web Developer · Full Stack Engineer**
 
-Developer with expertise in **Python, JavaScript, SQL & React**. 
+**Front-End Developer · Python Developer · Software Developer**
+
+Developer with hands-on experience in **Python, JavaScript, SQL, React, HTML/CSS, and Data Analytics**.
 
 ### 👨‍💻 About Me
 
-- 🎓 Engineering graduate passionate about full-stack development  
-- 🧠 Strong focus on clean, maintainable code  
-- 🚀 Currently building real-world web projects
+- 🎓 Information Technology graduate focused on front-end and Python development  
+- 💻 Experience in Python, JavaScript, web development, and data-driven applications  
+- 🛠️ Developing real-world websites for clients through freelance projects
+- 📈 Actively building projects and seeking opportunities to grow as a software developer
   
 <br clear="both"/>
 
@@ -85,5 +89,4 @@ Developer with expertise in **Python, JavaScript, SQL & React**.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00CAF7,100:8A2BE2&reversal=false&section=footer&descAlign=71&descAlignY=65"/>
-  
 </p>

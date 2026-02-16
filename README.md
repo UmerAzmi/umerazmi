@@ -9,21 +9,18 @@
 
 Developer with expertise in **Python, JavaScript, SQL & React**. 
 
+### 👨‍💻 About Me
+
+- 🎓 Engineering graduate passionate about full-stack development  
+- 🧠 Strong focus on clean, maintainable code  
+- 🚀 Currently building real-world web projects
+  
 <br clear="both"/>
 
 ---
-
+ 
 <div align="center">
-
-<!-- <a href="https://x.com/Azmi_Umer"><img src="./twitter.png" width=40 height=40 alt="Twitter" /></a>&nbsp;&nbsp; -->
-<a href="mailto:umer.azmi0@gmail.com"><img src="./imgs/gmail.png" width=40 height=40 alt="Email" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/umer.azmi"><img src="./imgs/instagram.png" width=40 height=40 alt="Instagram" /></a>&nbsp;&nbsp;
-<a href="https://www.github.com/UmerAzmi"><img src="./imgs/github.png" width=40 height=40 alt="GitHub" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/umer-azmi-1181351a1/"><img src="./imgs/linkedin.png" width=40 height=40 alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-</div>
-
----
-
+<img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=gradient&descAlign=2&descAlignY=0&reversal=false&section=header"/></p>
 <h3><b><samp>Skills</samp></b></h3>
 
 <h4><b><samp>Languages</samp></b></h4>
@@ -68,6 +65,21 @@ Developer with expertise in **Python, JavaScript, SQL & React**.
 <h4><b><samp>IDEs</samp></b></h4>
 
 ![](https://skills.syvixor.com/api/icons?i=vscode,pycharm,anaconda,clion,intellijidea&perline=18)
+<img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=gradient&section=footer&reversal=false"/></p>
+</div>
+
+
+
+---
+
+<div align="center">
+
+<!-- <a href="https://x.com/Azmi_Umer"><img src="./twitter.png" width=40 height=40 alt="Twitter" /></a>&nbsp;&nbsp; -->
+<a href="mailto:umer.azmi0@gmail.com"><img src="./imgs/gmail.png" width=40 height=40 alt="Email" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/umer.azmi"><img src="./imgs/instagram.png" width=40 height=40 alt="Instagram" /></a>&nbsp;&nbsp;
+<a href="https://www.github.com/UmerAzmi"><img src="./imgs/github.png" width=40 height=40 alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/umer-azmi-1181351a1/"><img src="./imgs/linkedin.png" width=40 height=40 alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+</div>
 
 ---
 

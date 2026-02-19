@@ -14,7 +14,7 @@ Developer with hands-on experience in **Python, JavaScript, SQL, React, HTML/CSS
 
 # <div align="left" style="line-height:1;"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="27"/> <b>About Me</b></div>
 
-- 🎓 IT graduate focused on front-end and Python development  
+- 🎓 IT graduate specializing in Front-End and Python development
 - 💻 Experience in Python, JavaScript, web development, and data-driven applications  
 - 🛠️ Developing real-world websites for clients through freelance projects
 - 📈 Actively building projects and seeking opportunities to grow as a software developer

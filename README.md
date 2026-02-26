@@ -1,10 +1,11 @@
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00CAF7,100:8A2BE2&reversal=true&section=header&descAlign=71&descAlignY=65"/>
 </p> -->
-<img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<img align="right" width="30%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
 
 <p align="left" style="margin:0;padding:0"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=435&size=55&duration=4000&pause=1000&color=00CAF7&vCenter=true&width=435&height=65&lines=Umer+Azmi" /></p>
+<sub>Umer Azmi — Software & Web Developer from Mumbai, India</sub>
 
 ---
 
@@ -12,12 +13,14 @@
 
 Developer with hands-on experience in **Python, JavaScript, SQL, React, HTML/CSS, and Data Analytics**.
 
-# <div align="left" style="line-height:1;"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="27"/> <b>About Me</b></div>
+
+<!--
+## <div align="left" style="line-height:1;"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="27"/> <b>About Me</b></div>
 
 - 🎓 IT graduate specializing in Front-End and Python development
 - 💻 Experience in Python, JavaScript, web development, and data-driven applications  
 - 🛠️ Developing real-world websites for clients through freelance projects
-- 📈 Actively building projects and seeking opportunities to grow as a software developer
+- 📈 Actively building projects and seeking opportunities to grow as a software developer-->
   
 <br clear="both"/>
 

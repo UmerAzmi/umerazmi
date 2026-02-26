@@ -27,7 +27,7 @@ Developer with hands-on experience in **Python, JavaScript, SQL, React, HTML/CSS
 ---
  
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=gradient&descAlign=2&descAlignY=0&reversal=false&section=header"/></p>
+<img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=gradient&descAlign=2&descAlignY=0&reversal=false&section=header"/>
 <h3><b><samp>Skills</samp></b></h3>
 
 <h4><b><samp>Languages</samp></b></h4>
@@ -72,7 +72,7 @@ Developer with hands-on experience in **Python, JavaScript, SQL, React, HTML/CSS
 <h4><b><samp>IDEs</samp></b></h4>
 
 ![](https://skills.syvixor.com/api/icons?i=vscode,pycharm,anaconda,clion,intellijidea&perline=18)
-<img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=gradient&section=footer&reversal=false"/></p>
+<img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=gradient&section=footer&reversal=false"/>
 </div>
 
 

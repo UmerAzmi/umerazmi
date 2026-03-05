@@ -72,15 +72,22 @@
 
 <br/>
 
-**Version Control**
-
-![](https://skills.syvixor.com/api/icons?i=git,github&perline=18)
-
-<br/>
 
 ---
 
 ### ◆ &nbsp; TOOLS & PLATFORMS &nbsp; ◆
+
+<br/>
+
+**AI & Gen AI Tools**
+
+![](https://skills.syvixor.com/api/icons?i=chatgpt,claudeai,gemini,deepseek,ollama,vercel,lovable,perplexity&perline=18)
+
+<br/>
+
+**Version Control**
+
+![](https://skills.syvixor.com/api/icons?i=git,github&perline=18)
 
 <br/>
 
